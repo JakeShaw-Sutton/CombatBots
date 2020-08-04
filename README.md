@@ -1,6 +1,6 @@
 # COMBAT BOTS --- RC ADDON BOARD
 
-##DESCRIPTION
+## DESCRIPTION
   This code reads the PWM pulse width time coming from channel 1 and channel 2 of the RC receiver,
   then mixes it so that a single joystick can be used to drive a 2 wheeled robot in all directions.
  
@@ -65,6 +65,3 @@
   7)Under Tools, Change the Programmer to "Arduino as ISP"
   8)Hit Upload and it should then program.
 ```
- Code and PCB Creator
- by :- Jake Gibson Shaw-Sutton
-
