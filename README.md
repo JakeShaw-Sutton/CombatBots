@@ -48,7 +48,9 @@
 ```
 
   You will also need to add the following URL to the additional Boards Manager URLs List:
+  
  > https://raw.githubusercontent.com/carlosefr/atmega/master/package_carlosefr_atmega_index.json
+ 
   Then go to Tools > Board > Board Manager and search for Barebones ATmega chips. Select it and install.
   
   This is a set of config files by Carlos Rodrigues that lets you program a bare MCU without a bootloader or external clock.
